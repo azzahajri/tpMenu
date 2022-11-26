@@ -74,7 +74,7 @@ namespace tpform2
             Form[] c = this.MdiChildren;
             foreach (Form ch in c)
                 ch.WindowState = FormWindowState.Minimized;
-        } 
+        }        
 
         private void agrantirToolStripMenuItem_Click(object sender, EventArgs e)
         {
