@@ -1,0 +1,12 @@
+c:\users\azzah\documents\visual studio 2013\Projects\tpform2\tpform2\bin\Debug\tpform2.exe.config
+c:\users\azzah\documents\visual studio 2013\Projects\tpform2\tpform2\bin\Debug\tpform2.exe
+c:\users\azzah\documents\visual studio 2013\Projects\tpform2\tpform2\bin\Debug\tpform2.pdb
+c:\users\azzah\documents\visual studio 2013\Projects\tpform2\tpform2\obj\Debug\tpform2.Form1.resources
+c:\users\azzah\documents\visual studio 2013\Projects\tpform2\tpform2\obj\Debug\tpform2.Form2.resources
+c:\users\azzah\documents\visual studio 2013\Projects\tpform2\tpform2\obj\Debug\tpform2.Form3.resources
+c:\users\azzah\documents\visual studio 2013\Projects\tpform2\tpform2\obj\Debug\tpform2.Properties.Resources.resources
+c:\users\azzah\documents\visual studio 2013\Projects\tpform2\tpform2\obj\Debug\tpform2.csproj.GenerateResource.Cache
+c:\users\azzah\documents\visual studio 2013\Projects\tpform2\tpform2\obj\Debug\tpform2.exe
+c:\users\azzah\documents\visual studio 2013\Projects\tpform2\tpform2\obj\Debug\tpform2.pdb
+c:\users\azzah\documents\visual studio 2013\Projects\tpform2\tpform2\obj\Debug\tpform2.Form4.resources
+C:\Users\azzah\documents\visual studio 2013\Projects\tpform2\tpform2\obj\Debug\tpform2.csprojResolveAssemblyReference.cache
