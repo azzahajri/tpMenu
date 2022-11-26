@@ -10,3 +10,8 @@ c:\users\azzah\documents\visual studio 2013\Projects\tpform2\tpform2\obj\Debug\t
 c:\users\azzah\documents\visual studio 2013\Projects\tpform2\tpform2\obj\Debug\tpform2.pdb
 c:\users\azzah\documents\visual studio 2013\Projects\tpform2\tpform2\obj\Debug\tpform2.Form4.resources
 C:\Users\azzah\documents\visual studio 2013\Projects\tpform2\tpform2\obj\Debug\tpform2.csprojResolveAssemblyReference.cache
+C:\Users\azzah\documents\visual studio 2013\Projects\tpform2\tpform2\bin\Debug\tpform2.exe.manifest
+C:\Users\azzah\documents\visual studio 2013\Projects\tpform2\tpform2\bin\Debug\tpform2.application
+C:\Users\azzah\documents\visual studio 2013\Projects\tpform2\tpform2\obj\Debug\tpform2.TrustInfo.xml
+C:\Users\azzah\documents\visual studio 2013\Projects\tpform2\tpform2\obj\Debug\tpform2.exe.manifest
+C:\Users\azzah\documents\visual studio 2013\Projects\tpform2\tpform2\obj\Debug\tpform2.application
